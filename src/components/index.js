@@ -1,0 +1,9 @@
+export { default as Error } from "./Error";
+export { default as Favorites } from "./Favorites";
+export { default as Footer } from "./Footer";
+export { default as Gif } from "./Gif";
+export { default as Gifs } from "./Gifs";
+export { default as Header } from "./Header";
+export { default as Main } from "./Main";
+export { default as NotFound } from "./NotFound";
+export { default as Social } from "./Social";
